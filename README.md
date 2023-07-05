@@ -1,1 +1,1 @@
-# DA
+#Data visualization,cleansing,internet,categorical data
